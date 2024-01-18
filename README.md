@@ -11,4 +11,8 @@ They are meant to distract from the control that is being exercised through them
 
 ---
 
+[DRY gone bad](https://aaronstannard.com/dry-gone-bad-bespoke-company-framework/)
+
+---
+
 `If you want to go fast, go alone. If you want to go far, go together.` ~ _African proverb_
