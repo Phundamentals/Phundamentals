@@ -7,6 +7,10 @@ They are meant to distract from the control that is being exercised through them
 
 ---
 
+`Decisions are often based on intuition. Intuition requires experience. Experiences requires making a lot of mistakes.`
+
+---
+
 `Encapsulate what varies, and separate it from what stays the same.` ~ _The Many_
 
 ---
