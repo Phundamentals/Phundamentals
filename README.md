@@ -5,3 +5,5 @@
 #### D.R.Y.M. Don't Repeat Your Mistakes...
 
 #### [DRY gone bad](https://aaronstannard.com/dry-gone-bad-bespoke-company-framework/)
+
+### [Second Order Thinking](https://fs.blog/chestertons-fence/)
