@@ -7,6 +7,8 @@ They are meant to distract from the control that is being exercised through them
 
 ---
 
+`There are no secrets to success. It is the result of preparation, hard work, and learning from failure.` ~ _Colin Powell_
+
 `Decisions are often based on intuition. Intuition requires experience. Experiences requires making a lot of mistakes.`
 
 ---
