@@ -1,6 +1,9 @@
+1. If it seems too difficult, then arrive there faster.
+2. If it is too difficult, then accept the fact.
+
 ### Encapsulate what varies
 
- ### False hopes must be crushed
+### False hopes must be crushed
 
 #### Decisions are often based on intuition. Intuition requires experience. Experiences requires making a lot of mistakes.
 
