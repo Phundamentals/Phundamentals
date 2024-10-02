@@ -1,4 +1,8 @@
-﻿`Many rules were created so we could keep up appearances and hide behind them, but we, truthseekers, cannot.` ~ _Phundamentals_
+`Nothing is more dangerous than an idea when it is the only one you have.` ~ _Emil Chartier Alain_
+
+---
+
+`Many rules were created so we could keep up appearances and hide behind them, but we, truthseekers, cannot.` ~ _Phundamentals_
 
 **AKA**: _Boolean logic_
 
