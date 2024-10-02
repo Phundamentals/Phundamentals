@@ -1,3 +1,5 @@
+#### `Nothing is more dangerous than an idea when it is the only one you have.` ~ _Emil Chartier Alain_
+
 #### `If you want to go fast, go alone. If you want to go far, go together.` ~ _African proverb_
 
 #### `There are no secrets to success. It is the result of preparation, hard work, and learning from failure.` ~ _Colin Powell_
