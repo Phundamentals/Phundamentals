@@ -11,7 +11,7 @@ If you want to go fast, go alone. If you want to go far, go together. * African 
 
 #### Encapsulate what varies, and separate it from what stays the same.
 
-##### D.R.Y.M. Don't Repeat Your Mistakes...
+#### D.R.Y.M. Don't Repeat Your Mistakes...
 
 #### [DRY gone bad](https://aaronstannard.com/dry-gone-bad-bespoke-company-framework/)
 
