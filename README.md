@@ -7,4 +7,8 @@ They are meant to distract from the control that is being exercised through them
 
 ---
 
+`Encapsulate what varies, and separate it from what stays the same.` ~ _The Many_
+
+---
+
 `If you want to go fast, go alone. If you want to go far, go together.` ~ _African proverb_
