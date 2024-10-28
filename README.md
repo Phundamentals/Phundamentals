@@ -17,6 +17,13 @@ They are meant to distract from the control that is being exercised through them
 
 ---
 
+`False hopes must be crushed.`
+
+1. If it seems too difficult, then _arrive there faster_.
+2. If it is too difficult, then _accept the fact_.
+
+---
+
 [Second Order Thinking](https://fs.blog/chestertons-fence/)
 
 `D.R.Y.M. Don't Repeat Your Mistakes...`
