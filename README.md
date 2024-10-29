@@ -1,3 +1,12 @@
+﻿`The right structure of a software system is more important than its correct behavior.` ~ _Stefano Santilli_
+
+<!--![Software, Structure and Behavior](Assets/Software-structure-and-behavior.png "Software, structure and behavior")-->
+<!--<img src="Assets/Software-structure-and-behavior.png" alt="Software, structure and behavior" height="160px"/>-->
+
+[The Zero Principle of Software Design](https://www.linkedin.com/pulse/zero-principle-software-design-stefano-santilli#:~:text=Here%20is%20the%20%E2%80%98Zero%20Principle%20of%20Software%20Design%E2%80%99)
+
+---
+
 `Nothing is more dangerous than an idea when it is the only one you have.` ~ _Emil Chartier Alain_
 
 ---
