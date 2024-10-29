@@ -28,6 +28,10 @@ They are meant to distract from the control that is being exercised through them
 
 ---
 
+[The Psychology of Coding: Overcoming Mental Blocks and Staying Motivated](https://www.skillreactor.io/blog/the-psychology-of-coding-overcoming-mental-blocks-and-staying-motivated/)
+
+---
+
 [Second Order Thinking](https://fs.blog/chestertons-fence/)
 
 `D.R.Y.M. Don't Repeat Your Mistakes...`
