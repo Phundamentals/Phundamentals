@@ -6,12 +6,8 @@
 
 **AKA**: _Boolean logic_
 
-The price will be paid nonetheless.
-
 `Rule systems were created by rulers to control the mind of those being ruled.
 They are meant to distract from the control that is being exercised through them.` ~ _Phundamentals_
-
-The price will be paid nonetheless.
 
 ---
 
