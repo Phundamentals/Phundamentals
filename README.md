@@ -1,4 +1,8 @@
-﻿`The right structure of a software system is more important than its correct behavior.` ~ _Stefano Santilli_
+﻿`My biggest challenge right now is to bring order and routine to what otherwise becomes a guessing game of chance: I need a method (pun intended).` ~ _Phundamentals_
+
+---
+
+`The right structure of a software system is more important than its correct behavior.` ~ _Stefano Santilli_
 
 <!--![Software, Structure and Behavior](Assets/Software-structure-and-behavior.png "Software, structure and behavior")-->
 <!--<img src="Assets/Software-structure-and-behavior.png" alt="Software, structure and behavior" height="160px"/>-->
