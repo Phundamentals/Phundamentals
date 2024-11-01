@@ -15,6 +15,22 @@
 
 ---
 
+#### Definitions and Terms
+
+IO
+: ~~Input/Output~~ Information Overload
+
+AIO
+: ~~All In One~~ Assault by Information Overload
+
+HIO
+: ~~Health Information Organization~~ Hurt by Information Overload
+
+BIO
+: ~~Biography~~ Brain-damaged by Information Overload
+
+---
+
 `Many rules were created so we could keep up appearances and hide behind them, but we, truthseekers, cannot.` ~ _Phundamentals_
 
 **AKA**: _Boolean logic_
