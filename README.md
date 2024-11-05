@@ -11,6 +11,12 @@
 
 ---
 
+`The creative mind cannot be made subject to the principles of production systems nor be imprisoned in its methodology
+without impairing its creative potential, no matter how hard one craves control.
+Creativity or control, choose one.` ~ Phundamentals
+
+---
+
 `Nothing is more dangerous than an idea when it is the only one you have.` ~ _Emil Chartier Alain_
 
 ---
