@@ -17,6 +17,10 @@ Creativity or control, choose one.` ~ Phundamentals
 
 ---
 
+`What's the value of being wise, when being right is the only thing that matters?` ~ Phundamentals
+
+---
+
 `Nothing is more dangerous than an idea when it is the only one you have.` ~ _Emil Chartier Alain_
 
 ---
