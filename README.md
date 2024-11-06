@@ -28,6 +28,77 @@ and https://www.reddit.com/r/ProgrammerHumor/.
 
 ---
 
+#### K.I.S.S. demonstrated:
+
+```csharp
+// Customer advice: keep it simple.
+public class CustomerSuppliedPredicate : IPredicate
+{
+    public bool ItRainedYesterday { get; init; }
+    public bool MySocksAreStillWet { get; init; } 
+    public bool MaryWillCallMeTomorrow { get; init; }
+    public bool ThereIsATrafficJamOnRoute66 { get; init; } 
+    public bool IWillBeFamousInOneYear { get; init; }
+    public bool ConditionalNestingOverflows { get; init; }
+    public bool CyclomaticComplexityIsViolated { get; init; }
+    
+    public bool IsSatisfied()
+    {
+        if (IWillBeFamousInOneYear)
+        {
+            if (!ItRainedYesterday || !MySocksAreStillWet)
+            {
+                if (MaryWillCallMeTomorrow)
+                {
+                    if (!ThereIsATrafficJamOnRoute66)
+                    {
+                        if (ConditionalNestingOverflows || CyclomaticComplexityIsViolated)
+                        {
+                            return true;
+                        }
+                    }
+                }
+            }
+        }
+        
+        return false;
+    }
+}
+
+try
+{
+    var result = new CustomerSuppliedPredicate().IsSatisfied();
+    
+    if (result)
+    {
+        System.Random.Shared.Next(1, 4) switch
+        {
+            1 => DoSomethingArbitrary_1(),
+            2 => DoSomethingArbitrary_2(),
+            3 => DoSomethingArbitrary_3()
+        }
+    }
+}
+catch (TooManyConditionsException ex)
+{
+    // Don't even try to fix this.
+    // The real problem actually is not in the code, even though the code is bad...
+}
+
+// Programmer reimplementation:
+// - Follow customer advice.
+// - Apply KISS.
+// - Use advanced programming techniques.
+// - Deliver expected functionality.
+public class ImprovedPredicate : IPredicate, IHighlyAccurateEstimate
+{
+    public bool IsSatisfied()
+        => System.Random.Shared.Next(0, 2) == 1;
+}
+```
+
+---
+
 ```csharp
 public interface IRule;
 ```
