@@ -28,6 +28,10 @@ and https://www.reddit.com/r/ProgrammerHumor/.
 
 ---
 
+`To understand recursion, you must first understand recursion.`
+
+---
+
 #### K.I.S.S. demonstrated:
 
 ```csharp
