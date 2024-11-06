@@ -28,6 +28,12 @@ and https://www.reddit.com/r/ProgrammerHumor/.
 
 ---
 
+```csharp
+public interface IRule;
+```
+
+---
+
 `My biggest challenge right now is to bring order and routine to what otherwise becomes a guessing game of chance: I need a method (pun intended).` ~ _Phundamentals_
 
 ---
