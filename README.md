@@ -23,6 +23,12 @@ To the economist, too much money has been spent on the glass.`
 
 ---
 
+Therapist: `Do you get enough rest?`
+
+Programmer: `Of course. REST is a lifestyle.`
+
+---
+
 Also see [Programmer Humor](https://www.reddit.com/r/ProgrammerHumor/comments/xf4jyj/object_oriented_programming_ftw/?rdt=47469)
 and https://www.reddit.com/r/ProgrammerHumor/.
 
