@@ -1,4 +1,13 @@
-﻿`My biggest challenge right now is to bring order and routine to what otherwise becomes a guessing game of chance: I need a method (pun intended).` ~ _Phundamentals_
+﻿#### The problem with correctness:
+
+`To the optimist, the glass is half-full.
+To the pessimist, the glass is half-empty.
+To the engineer, the glass is twice as big as it needs to be.
+To the economist, too much money has been spent on the glass.`
+
+---
+
+`My biggest challenge right now is to bring order and routine to what otherwise becomes a guessing game of chance: I need a method (pun intended).` ~ _Phundamentals_
 
 ---
 
