@@ -7,6 +7,27 @@ To the economist, too much money has been spent on the glass.`
 
 ---
 
+`Am I testing this code, or is this code testing me?`
+
+---
+
+`How do programmers become wealthy?`
+`I don't know...`
+`Inheritance.`
+
+`Most programmers have to wait until they get arrays.`
+
+---
+
+`I had a problem, so I decided to use OOP. Now I have a ProblemFactory...`
+
+---
+
+Also see [Programmer Humor](https://www.reddit.com/r/ProgrammerHumor/comments/xf4jyj/object_oriented_programming_ftw/?rdt=47469)
+and https://www.reddit.com/r/ProgrammerHumor/.
+
+---
+
 `My biggest challenge right now is to bring order and routine to what otherwise becomes a guessing game of chance: I need a method (pun intended).` ~ _Phundamentals_
 
 ---
