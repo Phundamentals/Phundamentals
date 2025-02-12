@@ -1,4 +1,8 @@
-﻿#### The problem with correctness:
+`DON'T BE AMBITIOUS.` AGAIN: `DON'T BE AMBITIOUS.`
+
+---
+
+#### The problem with correctness:
 
 `To the optimist, the glass is half-full.
 To the pessimist, the glass is half-empty.
