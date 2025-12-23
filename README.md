@@ -1,13 +1,13 @@
-I seem to be learning again and again that software design begins with stories. A lot of smaller stories, as
-told by humans, in a human language, in no particular order. Such individual stories are actually chapters
-in a larger book, yet to be put in order. And the complete story has yet to be discovered.
+I seem to be learning again and again that software design begins with stories. A lot of smaller stories, as told
+by humans, in a human language, in no particular order. Such individual stories are actually chapters in a larger
+book, yet to be put in order. And the complete story has yet to be discovered.
 
-No, it's not about technology, it's about how technology can support human interest, achieved by means of
-our interest in technology. Technology is a means to serve the interests of all parties. It's not about
-developers being tools themselves to support another party's interests with their knowledge of technology,
-enslaved to someone's wishes, needs, limits, or requirements. Developers should have their own interests at
-heart, by which they can support another party's interests. They should guard their own interests: that's
-how they learn and grow, and invest gained experience again so they can keep supporting other party's interests.
+No, it's not about technology, it's about how technology can support human interest, achieved by means of our
+interest in technology. Technology is a means to serve the interests of all parties. It's not about developers
+being tools themselves to support another party's interests with their knowledge of technology, enslaved to
+someone's wishes, needs, limits, or requirements. Developers should have their own interests at heart, by which
+they are able to support another party's interests. They should guard their own interests: that's how they learn
+and grow, and invest gained experience again so they can keep supporting other party's interests.
 
 But it remains a human story above all, not a technology story. The human story reveals value, necessity, raison
 d'être, and the technological story exists only to support that. Technical stories originate from human stories.
@@ -17,7 +17,8 @@ capacity. I didn't even mention lack of understanding of what software design ac
 sides), impossible deadlines, developer inexperience, how the story changes over time, or how destructive
 management can be. Yes, it's complicated at best. Partially because it requires the collaboration of parties
 that don't understand each other's needs very well nor how to align them. But we learn to communicate along the
-way.
+way. We do that to create better stories. We do that so we can learn to write our own stories, instead of having
+it written for us by someone else. Better stories make people happier.
 
 There's a gap between the human world and the computer world. The human mind and the computer mind are separated
 by mismatch. They're not actually compatible. The only friendship they share seems superficial as long as it's
