@@ -28,8 +28,8 @@ Designers and developers stand in between worlds, trying to bridge the gap. Comm
 cycles to and fro, and mistakes in translations are rather costly.
 Clients reveal their wishes, while developers wage war.
 
-That is what we are, my friend: warriors, without a doubt. I've seen it.
-We are. Trust me.
+That is what we are, my friend: warriors, without a doubt.
+We are. Trust me, I've seen it.
 
 ---
 
