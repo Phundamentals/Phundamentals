@@ -21,12 +21,14 @@ way. We do that to create better stories. We do that so we can learn to write ou
 it written for us by someone else. Better stories make people happier.
 
 There's a gap between the human world and the computer world. The human mind and the computer mind are separated
-by mismatch. They're not actually compatible. The only friendship they share seems superficial as long as it's
-beneficial, and then it quickly becomes a hatefull relationship. And designers and developers stand in between
-worlds, trying to bridge the gap. Communication requires complex translation cycles to and fro, and mistakes in
-translations are rather costly. Clients reveal their wishes, while developers wage war.
+by mismatch. They're not actually compatible. The only friendship they share seems superficial and exists only as
+long as it's beneficial. Then we break up and things quickly become hateful. Until it's all fixed again.
 
-That is what we are, my friend: warriors, without a doubt.
+Designers and developers stand in between worlds, trying to bridge the gap. Communication requires complex translation
+cycles to and fro, and mistakes in translations are rather costly.
+Clients reveal their wishes, while developers wage war.
+
+That is what we are, my friend: warriors, without a doubt. I've seen it.
 We are. Trust me.
 
 ---
