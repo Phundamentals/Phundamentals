@@ -1,6 +1,6 @@
 I seem to be learning again and again that software design begins with stories. A lot of smaller stories, as
 told by humans, in a human language, in no particular order. Such individual stories are actually chapters
-in a larger book, yet to be put in order.
+in a larger book, yet to be put in order. And the complete story has yet to be discovered.
 
 No, it's not about technology, it's about how technology can support human interest, achieved by means of
 our interest in technology. Technology is a means to serve the interests of all parties. It's not about
