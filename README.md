@@ -1,11 +1,11 @@
 I seem to be learning again and again that software design begins with stories. A lot of stories, as told by
 humans, in a human language, in no particular order. It's not about technology, it's about how technology can
-support human interest, achieved by our interests in technology. Technology is a means to serve the interests
-of all parties. It's also not about developers being tools themselves to support another person's interests
-with their knowledge of technology, enslaved to someone's wishes, needs, or requirements. Those developers
-should have their own interests at heart, by which they can support another party's interests. They should
-promote their own interests: that's how they learn and grow, and invest gained experience again so they can
-support another person's interests.
+support human interest, achieved by means of our interests in technology. Technology is a means to serve the
+interests of all parties. It's also not about developers being tools themselves to support another person's
+interests with their knowledge of technology, enslaved to someone's wishes, needs, or requirements. Those
+developers should have their own interests at heart, by which they can support another party's interests.
+They should promote their own interests: that's how they learn and grow, and invest gained experience again
+so they can keep supporting other party's interests.
 
 But it remains a human story above all, not a technology story. The human story reveals value, necessity, raison
 d'être, and the technological story exists only to support that. Technical stories originate from human stories.
