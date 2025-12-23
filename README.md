@@ -1,3 +1,31 @@
+I seem to be learning again and again that software design begins with stories. A lot of stories, as told by
+humans, in a human language, in no particular order. It's not about technology, it's about how technology can
+support human interest, achieved by our interests in technology. Technology is a means to serve the interests
+of all parties. It's also not about developers being tools themselves to support another person's interests
+with their knowledge of technology, enslaved to someone's wishes, needs, or requirements. Those developers
+should have their own interests at heart, by which they can support another party's interests. They should
+promote their own interests: that's how they learn and grow, and invest gained experience again so they can
+support another person's interests.
+
+But it remains a human story above all, not a technology story. The human story reveals value, necessity, raison
+d'être, and the technological story exists only to support that. Technical stories originate from human stories.
+It's partially about keeping everyone happy and satisfied as can be. But it's complicated. It's so easy to get
+lost in technology, overtaken by virtual enemies or otherwise overwhelmed by our limited human mental capacity.
+I didn't even mention lack of understanding of what software design actually entails or needs, impossible deadlines,
+developer inexperience, how the stories change all the time, or how destructive micro-management can be. Yes, it's
+complicated at best. Partially because it requires the collaboration of parties that don't understand each other's
+needs very well nor how to align them. But we learn to communicate along the way.
+
+There's a gap between the human world and the computer world. The human mind and the computer mind are separated
+by mismatch. They're not actually compatible. The only friendship they share seems superficial as long as it's
+beneficial, and then it quickly becomes a hatefull relationship. And designers and developers stand in between
+worlds, trying to bridge the gap. Communication requires complex translation cycles to and fro, and mistakes in
+translations are rather costly. Clients reveal their wishes, while developers wage war.
+
+That is what we are, my friend: warriors, without a doubt. We are. Trust me.
+
+---
+
 `DON'T BE AMBITIOUS.` AGAIN: `DON'T BE AMBITIOUS.`
 
 ---
