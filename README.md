@@ -1,3 +1,7 @@
+`DRY is the root of all evil. This expression is profound.` ~ Phundamentals
+
+---
+
 I seem to be learning again and again that software design begins with stories. A lot of smaller stories, as told
 by humans, in a human language, in no particular order. Such individual stories are actually chapters in a larger
 book, yet to be put in order. And the complete story has yet to be discovered.
